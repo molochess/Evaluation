@@ -1,0 +1,14 @@
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\bin\Debug\net8.0\Evaluation.exe
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\bin\Debug\net8.0\Evaluation.deps.json
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\bin\Debug\net8.0\Evaluation.runtimeconfig.json
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\bin\Debug\net8.0\Evaluation.dll
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\bin\Debug\net8.0\Evaluation.pdb
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.AssemblyInfoInputs.cache
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.AssemblyInfo.cs
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.dll
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\refint\Evaluation.dll
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.pdb
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\Evaluation.genruntimeconfig.cache
+C:\Users\anna.atapina\RiderProjects\Evaluation\Evaluation\obj\Debug\net8.0\ref\Evaluation.dll
