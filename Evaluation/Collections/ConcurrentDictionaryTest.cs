@@ -1,12 +1,13 @@
 ﻿using System.Collections.Concurrent;
+using Evaluation.Objects;
 
 namespace Evaluation.Collections;
 
 public class ConcurrentDictionaryTest
 {
-    private readonly ConcurrentDictionary<int, Product> productConcurrentDictionary 
+    private readonly ConcurrentDictionary<int, Product> productConcurrentDictionary
         = new ConcurrentDictionary<int, Product>();
-    
+
     public ConcurrentDictionaryTest()
     {
         for (int i = 0; i < 50; i++)

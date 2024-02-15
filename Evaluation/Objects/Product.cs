@@ -1,4 +1,5 @@
-﻿public class Product : IComparable<Product>
+﻿namespace Evaluation.Objects;
+public class Product : IComparable<Product>
 {
     public int Id { get; set; }
     public string Name { get; set; }
@@ -14,7 +15,7 @@
         Category = category;
         QuantityInStock = quantityInStock;
     }
-    
+
     public static Product GenerateRandomProduct(int id)
     {
         Random random = new Random();
@@ -26,12 +27,12 @@
 
         return new Product(id, name, price, category, quantityInStock);
     }
-    
-    public int CompareTo(Product other) 
+
+    public int CompareTo(Product other)
     {
         return this.Price.CompareTo(other.Price);
     }
-    
+
     public override string ToString()
     {
         return $"Product ID: {Id}, Name: {Name}, Price: ${Price}, Category: {Category}, Quantity in Stock: {QuantityInStock}";

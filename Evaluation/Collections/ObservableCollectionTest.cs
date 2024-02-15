@@ -1,13 +1,14 @@
 ﻿using System.Collections.Concurrent;
 using System.Collections.ObjectModel;
+using Evaluation.Objects;
 
 namespace Evaluation.Collections;
 
 public class ObservableCollectionTest
 {
-    private readonly ObservableCollection<Product> productConcurrentDictionary 
+    private readonly ObservableCollection<Product> productConcurrentDictionary
         = new ObservableCollection<Product>();
-    
+
     public ObservableCollectionTest()
     {
         for (int i = 0; i < 50; i++)

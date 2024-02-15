@@ -1,9 +1,11 @@
-﻿namespace Evaluation.Collections;
+﻿using Evaluation.Objects;
+
+namespace Evaluation.Collections;
 
 public class DictionaryTest
 {
     private readonly Dictionary<int, Product> productDictionary = new Dictionary<int, Product>();
-    
+
     public DictionaryTest()
     {
         for (int i = 0; i < 50; i++)

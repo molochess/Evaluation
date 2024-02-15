@@ -1,10 +1,12 @@
-﻿namespace Evaluation.Collections;
+﻿using Evaluation.Objects;
+
+namespace Evaluation.Collections;
 
 public class SortedDictionaryTest
 {
-    private readonly SortedDictionary<int, Product> productSortedDictionary = 
+    private readonly SortedDictionary<int, Product> productSortedDictionary =
         new SortedDictionary<int, Product>();
-    
+
     public SortedDictionaryTest()
     {
         for (int i = 0; i < 50; i++)

@@ -1,4 +1,6 @@
-﻿namespace Evaluation.Collections;
+﻿using Evaluation.Objects;
+
+namespace Evaluation.Collections;
 
 public class LinkedListTest
 {
