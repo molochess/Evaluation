@@ -14,4 +14,5 @@ public class StackTest
             productQueue.Push(Product.GenerateRandomProduct(id));
         }
     }
+
 }
