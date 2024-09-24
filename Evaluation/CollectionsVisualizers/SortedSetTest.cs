@@ -5,6 +5,7 @@ namespace Evaluation.Collections;
 public class SortedSetTest
 {
     private readonly SortedSet<Product> productSortedSet = new SortedSet<Product>();
+    
 
     public SortedSetTest()
     {
